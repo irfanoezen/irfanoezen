@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Irfan a coding enthusiast from Munich.
+# 👋 Hey there, I'm Irfan a coding enthusiast from Munich.
 
 > - 🔭 I’m currently working on Odin's projects.
 > - 🌱 I’m currently learning frontend development.
