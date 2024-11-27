@@ -5,4 +5,3 @@
 > - 👯 I’m looking to collaborate on open-source projects.
 > - ⚡ Motto: If it doesn't challenge you it won't change you.
 > - 💬 Ask me about anything what you want.
-> - 📫 You can reach me on 
