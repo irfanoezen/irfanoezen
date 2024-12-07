@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/twitch-%23A96FFF.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a href="https://slack.com/" target="_blank">
 <img src=https://img.shields.io/badge/slack-%2308090A.svg?&style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
