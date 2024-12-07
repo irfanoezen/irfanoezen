@@ -7,7 +7,6 @@
 - 📬 You can reach me on
 
 ---
-<br>
 
 ## 📚 My languages, libraries and frameworks
 
