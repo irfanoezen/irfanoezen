@@ -21,9 +21,8 @@
 <a href="https://meetup.com/" target="_blank">
 <img src=https://img.shields.io/badge/meetup-%23F6405F.svg?&style=for-the-badge&logo=meetup&logoColor=white alt=meetup style="margin-bottom: 5px;" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/www.irfanoezen.com-%23F6405F.svg?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/www.irfanoezen.com-%23000000.svg?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
 </a>
 
 ---
