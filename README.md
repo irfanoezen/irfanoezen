@@ -10,14 +10,16 @@
 
 ## My langs., libraries and frameworks
 
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70"/></a>
 
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70"></a>
+
+<a href="#"><img src="" alt="" width="70"/></a>
+
