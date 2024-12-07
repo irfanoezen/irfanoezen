@@ -22,7 +22,7 @@
 <img src=https://img.shields.io/badge/meetup-%23f6405f.svg?&style=for-the-badge&logo=meetup&logoColor=white alt=meetup style="margin-bottom: 5px;" />
 </a>
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/www.irfanoezen.com-%23e5c890.svg?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/www.irfanoezen.com-%231e1e2e.svg?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
 </a>
 
 ---
