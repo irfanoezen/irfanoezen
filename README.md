@@ -22,15 +22,6 @@
 <a href="https://meetup.com/" target="_blank">
 <img src=https://img.shields.io/badge/meetup-%23F6405F.svg?&style=for-the-badge&logo=meetup&logoColor=white alt=meetup style="margin-bottom: 5px;" />
 </a> 
-<br>
-
-👨‍🏫  I’m currently learning front-end web development.
-
-🏋️‍♂️  I am just working on projects on theodinproject.com.
-
-🚀  I look forward to collaborating on web-based open-source projects.
-
-⚡️  Motto: If it doesn't challenge you it won't change you!
 
 ---
 
