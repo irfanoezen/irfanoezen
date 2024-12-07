@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Irfan a coding enthusiast from Munich.
+# 👋 Hey there, I'm Irfan a coding enthusiast from 📍**Munich**
 
 - 👨‍🏫 I’m currently learning front-end web development.
 - 🏋️‍♂️ I am just working on projects on theodinproject.com.
@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 My langs., libraries and frameworks
+## 📚 My languages, libraries and frameworks
 
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70" title="HTML"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="70" title="CSS"/></a>
