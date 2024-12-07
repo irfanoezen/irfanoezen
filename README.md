@@ -1,5 +1,5 @@
 <img src="https://github.com/irfanoezen/irfanoezen/blob/main/header.png" alt=""/>
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0032.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
@@ -23,9 +23,9 @@
   </a>
 </div>
 <br>
-<div align="left">
+<div align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 200px; height: 30px;"/>
+    <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 175px; height: 40px;"/>
   </a>
 </div>
 
