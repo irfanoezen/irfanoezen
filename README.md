@@ -26,7 +26,7 @@
   <img src=https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge alt=website/>
 </a>
 <br>
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" align="center">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" text-align="center">
   <img src="https://iili.io/JoQ1HUQ.md.png"  alt="buymeacoffee-violet-badge" style="width: 175px; height: 50px;">
 </a>
 
