@@ -7,3 +7,7 @@
 - 📫 You can reach me on
 
 ---
+
+## My langs., libraries and frameworks
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="">
