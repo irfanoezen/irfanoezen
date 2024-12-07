@@ -7,6 +7,7 @@
 - 📬 You can reach me on
 
 ---
+<br>
 
 ## 📚 My languages, libraries and frameworks
 
@@ -19,6 +20,8 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="" width="70" title="React+Bootstrap"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70" title="Electron.js"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70" title="Three.js"/></a>
+
+<br>
 
 ## 🛠️ My daily tools
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="70" title="VS Code"/></a>
