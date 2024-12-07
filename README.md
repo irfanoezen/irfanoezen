@@ -40,7 +40,7 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70" title="Electron.js"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70" title="Three.js"/></a>
 
-## 🛠️ My daily tools
+## 🛠️ My tools I use daily
 
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="70" title="VS Code"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width="70" title="Git"/></a>
