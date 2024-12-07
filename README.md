@@ -25,7 +25,7 @@
 <br>
 <div align="left">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 200px; height: 50px;"/>
+    <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 200px; height: 30px;"/>
   </a>
 </div>
 
