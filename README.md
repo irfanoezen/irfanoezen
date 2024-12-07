@@ -1,7 +1,5 @@
 <img src="https://github.com/irfanoezen/irfanoezen/blob/main/header.png" alt=""/>
 
-# 👋 Hey there, I'm Irfan a coding enthusiast from 📍*Munich*
-
 - 👨‍🏫 I’m currently learning front-end web development.
 - 🏋️‍♂️ I am just working on projects on theodinproject.com.
 - 🚀 I look forward to collaborating on web-based open-source projects.
