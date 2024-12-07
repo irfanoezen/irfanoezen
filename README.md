@@ -1,3 +1,5 @@
+<img src="" alt=""/>
+
 # 👋 Hey there, I'm Irfan a coding enthusiast from 📍*Munich*
 
 - 👨‍🏫 I’m currently learning front-end web development.
@@ -20,9 +22,8 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70" title="Electron.js"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70" title="Three.js"/></a>
 
-<br>
-
 ## 🛠️ My daily tools
+
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="70" title="VS Code"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width="70" title="Git"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="70" title="GitHub"/></a>
