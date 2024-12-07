@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/slack-%232EB47D.svg?&style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23FFFFFF.svg?&style=for-the-badge&logo=instagram&logoColor=black alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23f2d5cf.svg?&style=for-the-badge&logo=instagram&logoColor=black alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.threads.com/" target="_blank">
 <img src=https://img.shields.io/badge/threads-%23000000.svg?&style=for-the-badge&logo=threads&logoColor=white alt=threads style="margin-bottom: 5px;" />
