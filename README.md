@@ -23,7 +23,7 @@
 </a>
 <br>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 100px">
+  <img src="https://img.shields.io/badge/www.irfanoezen.com-%23FFBF00.svg?&style=for-the-badge" alt="website" style="width: 100px; height: 50px">
 </a>
 <br>
 <a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
