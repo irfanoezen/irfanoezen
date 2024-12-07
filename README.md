@@ -52,5 +52,5 @@
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
-  <img src="https://iili.io/JoQ1HUQ.md.png"  alt="buymeacoffee-violet-badge" style="width: 175px; height: 50px;"/>
+  <img src="https://iili.io/JoQ1HUQ.md.png"  alt="buymeacoffee-yellow-badge" style="width: 200px; height: 50px;"/>
 </a>
