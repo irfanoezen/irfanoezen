@@ -10,15 +10,15 @@
 
 ## My langs., libraries and frameworks
 
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70" title="HTML"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="70" title="CSS"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="70" title="Javascript"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="70" title="React"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="" width="70" title="Redux"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="" width="70" title="Bootstrap"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="" width="70" title="React+Bootstrap"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70" title="Electron.js"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70" title="Three.js"/></a>
 
 
 <a href="#"><img src="" alt="" width="70"/></a>
