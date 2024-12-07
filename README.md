@@ -15,7 +15,7 @@
 <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23f4b8e4.svg?&style=for-the-badge&logo=instagram&logoColor=black alt=instagram/>
 </a>
-<a href="https://www.threads.com/" target="_blank">
+<a href="https://www.threads.net/" target="_blank">
 <img src=https://img.shields.io/badge/threads-%23FFFFFF.svg?&style=for-the-badge&logo=threads&logoColor=black alt=threads/>
 </a>
 <a href="https://meetup.com/" target="_blank">
