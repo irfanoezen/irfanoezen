@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Irfan a =coding enthusiast= from 📍*Munich*
+# 👋 Hey there, I'm Irfan a coding enthusiast from 📍*Munich*
 
 - 👨‍🏫 I’m currently learning front-end web development.
 - 🏋️‍♂️ I am just working on projects on theodinproject.com.
@@ -20,8 +20,10 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="70" title="Electron.js"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="" width="70" title="Three.js"/></a>
 
----
-
-## 
-<a href="#"><img src="" alt="" width="70"/></a>
+## 🛠️ My daily tools
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="70" title="VS Code"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width="70" title="Git"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="70" title="GitHub"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" alt="" width="70" title="Firefox Dev Edition"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="" width="70" title="Figma"/></a>
 
