@@ -1,5 +1,5 @@
 <img src="https://github.com/irfanoezen/irfanoezen/blob/main/header.png" alt=""/>
-<div align="center">
+<div align="left">
   <a href="https://youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0032.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
