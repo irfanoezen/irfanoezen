@@ -10,4 +10,4 @@
 
 ## My langs., libraries and frameworks
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="70">
