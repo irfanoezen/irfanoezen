@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/badge/youtube-%23FF0032.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitch.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitch-%2300acee.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitch-%23A96FFF.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
