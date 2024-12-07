@@ -16,7 +16,7 @@
 <img src=https://img.shields.io/badge/instagram-%23f2d5cf.svg?&style=for-the-badge&logo=instagram&logoColor=black alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.threads.com/" target="_blank">
-<img src=https://img.shields.io/badge/threads-%23FFFFFF.svg?&style=for-the-badge&logo=threads&logoColor=white alt=threads style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/threads-%23FFFFFF.svg?&style=for-the-badge&logo=threads&logoColor=black alt=threads style="margin-bottom: 5px;" />
 </a>
 <a href="https://meetup.com/" target="_blank">
 <img src=https://img.shields.io/badge/meetup-%23F6405F.svg?&style=for-the-badge&logo=meetup&logoColor=white alt=meetup style="margin-bottom: 5px;" />
