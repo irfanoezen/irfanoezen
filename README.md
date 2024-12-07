@@ -29,3 +29,6 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" alt="" width="70" title="Firefox Dev Edition"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="" width="70" title="Figma"/></a>
 
+---
+
+
