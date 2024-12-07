@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/threads-%23FFFFFF.svg?&style=for-the-badge&logo=threads&logoColor=black alt=threads/>
 </a>
 <a href="https://meetup.com/" target="_blank">
-<img src=https://img.shields.io/badge/meetup-%23f6405f.svg?&style=for-the-badge&logo=meetup&logoColor=white&logoSize=50 alt=meetup/>
+<img src=https://img.shields.io/badge/meetup-%23f6405f.svg?&style=for-the-badge&logo=meetup&logoColor=white&logoSize=100 alt=meetup/>
 </a>
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/www.irfanoezen.com-%231e1e2e.svg?&style=for-the-badge alt=website/>
