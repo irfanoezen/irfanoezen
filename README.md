@@ -1,5 +1,24 @@
 <img src="https://github.com/irfanoezen/irfanoezen/blob/main/header.png" alt=""/>
 
+<a href="https://youtube.com/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitch.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.com/" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.threads.com/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=threads&logoColor=white alt=threads style="margin-bottom: 5px;" />
+</a>
+<a href="https://meetup.com/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=meetup&logoColor=white alt=meetup style="margin-bottom: 5px;" />
+</a> 
+
 👨‍🏫  I’m currently learning front-end web development.
 
 🏋️‍♂️  I am just working on projects on theodinproject.com.
@@ -7,8 +26,6 @@
 🚀  I look forward to collaborating on web-based open-source projects.
 
 ⚡️  Motto: If it doesn't challenge you it won't change you!
-
-📬  You can reach me on
 
 ---
 
